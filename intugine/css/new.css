@@ -1,0 +1,25 @@
+#shade{
+	background-color: white;
+	border-bottom: 0;
+	margin-bottom: -40px;
+}
+#bg{
+	background-color: #f7f7f7;
+}
+#person1{
+	position: relative;top:-20px;
+}
+
+#what{
+	padding: 0px;
+}
+.preorder{
+	border: 2px solid #76cc1e;
+}
+
+.white{
+	height: 200%;
+}
+#info{
+	width: 200px;
+}
